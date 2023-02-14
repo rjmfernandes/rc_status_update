@@ -1,0 +1,4 @@
+{
+    "status_update_command_params_example": "/st offline",
+    "status_update_command_description": "Updates user status"
+}

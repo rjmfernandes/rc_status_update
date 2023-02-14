@@ -1,0 +1,16 @@
+{
+    "id": "38a11b8e-23f6-4e7a-8769-b329e9aa33c8",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Rui Fernandes",
+        "homepage": "rocket.chat",
+        "support": "rocket.chat"
+    },
+    "name": "Status Demo",
+    "nameSlug": "status-demo",
+    "classFile": "StatusDemoApp.ts",
+    "description": "sample update status app",
+    "implements": []
+}
